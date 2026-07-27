@@ -1,7 +1,29 @@
 aid: gaspack
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gaspack.png
 name: Gaspack
-description: Gaspack is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Gaspack is a Web3 NFT launchpad that helps brands, creators, and artists turn
+  their intellectual property into NFT projects and bridge them with their fans.
+  The platform provides a full technology stack, community management, and creative
+  consultancy that supports projects from ideation through minting, launching,
+  scaling, and long-term maintenance as sustainable digital-collectible businesses.
+  Gaspack operates a consumer application (app.gaspack.xyz) for collecting digital
+  assets and has incubated branded NFT collections such as JPG People, Easy Demons
+  Club, and Jukiverse, alongside Kometh, a Web3 comic publishing and discovery
+  platform. Gaspack is a portfolio company of 500 Global. As of this enrichment
+  pass Gaspack publishes no public API, developer portal, SDKs, or machine-readable
+  API artifacts; this profile captures its verified public identity only.
 url: https://raw.githubusercontent.com/api-evangelist/gaspack/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- NFT
+- Web3
+- Blockchain
+- Launchpad
+- Digital Assets
+- Creators
+- Marketplace
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,10 @@ maintainers:
 common:
 - type: Website
   url: https://gaspack.xyz
+- type: Support
+  url: https://gaspack.typeform.com/contact
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
