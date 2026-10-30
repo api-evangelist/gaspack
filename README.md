@@ -64,6 +64,70 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gaspack is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Gaspack is a Web3 NFT launchpad that helps brands, creators, and artists turn their intellectual property into NFT projects and bridge them with their fans. The platform provides a full technology stack, community management, and creative consultancy that supports projects from ideation through minting, launching, scaling, and long-term maintenance as sustainable digital-collectible businesses. Gaspack operates a consumer application (app.gaspack.xyz) for collecting digital assets and has incubated branded NFT collections such as JPG People, Easy Demons Club, and Jukiverse, alongside Kometh, a Web3 comic publishing and discovery platform. Gaspack is a portfolio company of 500 Global. As of this enrichment pass Gaspack publishes no public API, developer portal, SDKs, or machine-readable API artifacts; this profile captures its verified public identity only.
 
-Backed by: 500-global — https://gaspack.xyz
+**Areas:** Company · NFT · Web3 · Blockchain · Launchpad · Digital Assets · Creators · Marketplace
+
+## Gaspack on APIs.io
+
+Everything profiled for Gaspack is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gaspack/](https://apis.io/providers/gaspack/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gaspack.xyz)
+- [Support](https://gaspack.typeform.com/contact)
+
+## API Evangelist rating
+
+**Kin Score 2.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gaspack/](https://apis.io/providers/gaspack/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gaspack: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gaspack/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
